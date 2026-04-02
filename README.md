@@ -193,12 +193,3 @@ Encryption must evolve — or it will break.
 
 ---
 
-## ⭐ Final Note
-
-If you cannot clearly explain:
-- Why RSA fails  
-- Why Kyber works  
-
-Then this is just a UI project — not a security project.
-
-Make sure you understand what you built.
